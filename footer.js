@@ -1,0 +1,1 @@
+document.write('<div class="container back_white footer mt-2"><div class="gest_pic"></div><div class="text_footer"><h5> Mr Portrait Mickael </h5><sub> </sub></div></div><div class="copyright"><h4>COPYRIGHT 2025</h4></div>')
